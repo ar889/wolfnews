@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wolfnews/static/css/main.dc9a3056.css",
+    "main.js": "/wolfnews/static/js/main.a907c441.js",
+    "static/js/787.a16a9cbe.chunk.js": "/wolfnews/static/js/787.a16a9cbe.chunk.js",
+    "index.html": "/wolfnews/index.html",
+    "main.dc9a3056.css.map": "/wolfnews/static/css/main.dc9a3056.css.map",
+    "main.a907c441.js.map": "/wolfnews/static/js/main.a907c441.js.map",
+    "787.a16a9cbe.chunk.js.map": "/wolfnews/static/js/787.a16a9cbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc9a3056.css",
+    "static/js/main.a907c441.js"
+  ]
+}
